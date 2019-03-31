@@ -13,4 +13,4 @@ MURA is a dataset of bone X-rays that allows to create models that find abnormal
 ## Installations & Reproduction Detailed Instructions
 
 - To Install : Run pip install -r requirements.txt
-- To Reproduce Results : https://github.com/Shreya888/School-of-AI-Hackathon-Delhi/"MURA X-ray Abnormality Detection"/Reproducibility.md
+- To Reproduce Results : https://github.com/shreya888/School-of-AI-Hackathon-Delhi/blob/master/MURA%20X-ray%20Abnormality%20Detection/reproducibility.md
