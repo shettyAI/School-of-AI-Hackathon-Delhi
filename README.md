@@ -19,4 +19,4 @@ LINK : https://arxiv.org/pdf/1712.06957.pdf
 ## Installations & Reproduction Detailed Instructions
 
 - To Install: Run pip install -r requirements.txt
-- To Reproduce Results: [Link](https://github.com/shreya888/School-of-AI-Hackathon-Delhi/blob/master/MURA%20X-ray%20Abnormality%20Detection/reproducibility.md)
+- To Reproduce Results: [Link](https://github.com/shreya888/School-of-AI-Hackathon-Delhi/blob/master/reproducibility.md)
