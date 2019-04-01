@@ -10,7 +10,7 @@ MURA is a dataset of bone X-rays that allows to create models that find abnormal
 
 A small description of the project can be found in the following link.
 
-- [Link of description](https://docs.google.com/presentation/d/1UvdQVKcJqsOSG2-1A_0ZXfupSavuXV1Ivx-Qm0mQzhw/edit?usp=sharing)
+- [Link of description of project](https://docs.google.com/presentation/d/1UvdQVKcJqsOSG2-1A_0ZXfupSavuXV1Ivx-Qm0mQzhw/edit?usp=sharing)
 
 - [Code in jupyter notebook](https://github.com/shreya888/School-of-AI-Hackathon-Delhi/blob/master/Abnormality%20detection%20MURA%20DataSet.ipynb)
 
